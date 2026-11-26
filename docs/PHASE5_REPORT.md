@@ -11,3 +11,5 @@ Original independent review and Phase 2/4 reports remain historical evidence; th
 Publication status is recorded in PROJECT_TRACKER.md; do not infer publication from build success.
 
 Final HTML: 17,021 bytes; two consecutive package builds produced SHA-256 `5bdef7d4840a6ba7900590dbde92c19ced35ca4b419e5cabbc2db3904387f168`. Release checksum verification passed.
+
+Published https://github.com/obscrivn/chatShelf/releases/tag/v0.1.0 from implementation commit `31dad17`. Both assets downloaded from final v0.1.0 public URLs and verified byte-for-byte against local files. Repository description/topics updated and verified. Tracker completion recorded in a documentation follow-up commit; release code/artifact remains the tagged implementation commit.
