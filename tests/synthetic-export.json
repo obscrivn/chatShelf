@@ -1,0 +1,352 @@
+[
+  {
+    "id": "synthetic-0",
+    "title": "SYNTHETIC_TITLE",
+    "current_node": "u",
+    "mapping": {
+      "root": {
+        "parent": null,
+        "message": null
+      },
+      "u": {
+        "parent": "root",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Repair javascript code after a test bug"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "synthetic-1",
+    "title": "SYNTHETIC_TITLE",
+    "current_node": "u",
+    "mapping": {
+      "root": {
+        "parent": null,
+        "message": null
+      },
+      "u": {
+        "parent": "root",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Fix python function code"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "synthetic-2",
+    "title": "SYNTHETIC_TITLE",
+    "current_node": "u",
+    "mapping": {
+      "root": {
+        "parent": null,
+        "message": null
+      },
+      "u": {
+        "parent": "root",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Rewrite an essay draft with clearer prose"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "synthetic-3",
+    "title": "SYNTHETIC_TITLE",
+    "current_node": "u",
+    "mapping": {
+      "root": {
+        "parent": null,
+        "message": null
+      },
+      "u": {
+        "parent": "root",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Edit an article paragraph for clarity"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "synthetic-4",
+    "title": "SYNTHETIC_TITLE",
+    "current_node": "u",
+    "mapping": {
+      "root": {
+        "parent": null,
+        "message": null
+      },
+      "u": {
+        "parent": "root",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Design a curriculum lesson with an exercise"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "synthetic-5",
+    "title": "SYNTHETIC_TITLE",
+    "current_node": "u",
+    "mapping": {
+      "root": {
+        "parent": null,
+        "message": null
+      },
+      "u": {
+        "parent": "root",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Prepare a course quiz to teach a student"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "synthetic-6",
+    "title": "SYNTHETIC_TITLE",
+    "current_node": "u",
+    "mapping": {
+      "root": {
+        "parent": null,
+        "message": null
+      },
+      "u": {
+        "parent": "root",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Organize a project roadmap and deadline"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "synthetic-7",
+    "title": "SYNTHETIC_TITLE",
+    "current_node": "u",
+    "mapping": {
+      "root": {
+        "parent": null,
+        "message": null
+      },
+      "u": {
+        "parent": "root",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Schedule project tasks and scope a milestone"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "synthetic-8",
+    "title": "SYNTHETIC_TITLE",
+    "current_node": "u",
+    "mapping": {
+      "root": {
+        "parent": null,
+        "message": null
+      },
+      "u": {
+        "parent": "root",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Teach python code with a lesson and quiz"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "synthetic-9",
+    "title": "SYNTHETIC_TITLE",
+    "current_node": "u",
+    "mapping": {
+      "root": {
+        "parent": null,
+        "message": null
+      },
+      "u": {
+        "parent": "root",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Explain prose writing alongside project scope"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "synthetic-10",
+    "title": "SYNTHETIC_TITLE",
+    "current_node": "u",
+    "mapping": {
+      "root": {
+        "parent": null,
+        "message": null
+      },
+      "u": {
+        "parent": "root",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Discuss debugging a failing program"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "synthetic-11",
+    "title": "SYNTHETIC_TITLE",
+    "current_node": "u",
+    "mapping": {
+      "root": {
+        "parent": null,
+        "message": null
+      },
+      "u": {
+        "parent": "root",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Polish my composition"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "synthetic-12",
+    "title": "SYNTHETIC_TITLE",
+    "current_node": "u",
+    "mapping": {
+      "root": {
+        "parent": null,
+        "message": null
+      },
+      "u": {
+        "parent": "root",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "The clouds are beautiful"
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "synthetic-13",
+    "title": "SYNTHETIC_TITLE",
+    "current_node": "u",
+    "mapping": {
+      "root": {
+        "parent": null,
+        "message": null
+      },
+      "u": {
+        "parent": "root",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Plan project tasks containing confidential salary information"
+            ]
+          }
+        }
+      }
+    }
+  }
+]

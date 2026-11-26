@@ -1,0 +1,25 @@
+{
+  "annotation": "Authored as task scenarios with expected labels, without calling classifier. Synthetic author annotations, no independent human reviewer. Frozen before first evaluation; no threshold changes from held-out outcomes.",
+  "development": [
+    {"text":"Debug python code and fix a function bug","topics":["Programming"],"tasks":["Debug code"]},
+    {"text":"Revise writing and edit a paragraph","topics":["Writing"],"tasks":["Revise writing"]},
+    {"text":"Create a lesson and quiz for a course","topics":["Learning"],"tasks":["Design lesson"]},
+    {"text":"Plan project milestones and schedule tasks","topics":["Planning"],"tasks":["Plan project"]}
+  ],
+  "heldout": [
+    {"text":"Repair javascript code after a test bug","topics":["Programming"],"tasks":["Debug code"]},
+    {"text":"Fix python function code","topics":["Programming"],"tasks":["Debug code"]},
+    {"text":"Rewrite an essay draft with clearer prose","topics":["Writing"],"tasks":["Revise writing"]},
+    {"text":"Edit an article paragraph for clarity","topics":["Writing"],"tasks":["Revise writing"]},
+    {"text":"Design a curriculum lesson with an exercise","topics":["Learning"],"tasks":["Design lesson"]},
+    {"text":"Prepare a course quiz to teach a student","topics":["Learning"],"tasks":["Design lesson"]},
+    {"text":"Organize a project roadmap and deadline","topics":["Planning"],"tasks":["Plan project"]},
+    {"text":"Schedule project tasks and scope a milestone","topics":["Planning"],"tasks":["Plan project"]},
+    {"text":"Teach python code with a lesson and quiz","topics":["Programming","Learning"],"tasks":[]},
+    {"text":"Explain prose writing alongside project scope","topics":["Writing","Planning"],"tasks":[]},
+    {"text":"Discuss debugging a failing program","topics":["Programming"],"tasks":["Debug code"]},
+    {"text":"Polish my composition","topics":["Writing"],"tasks":["Revise writing"]},
+    {"text":"The clouds are beautiful","topics":[],"tasks":[]},
+    {"text":"Plan project tasks containing confidential salary information","topics":[],"tasks":[]}
+  ]
+}

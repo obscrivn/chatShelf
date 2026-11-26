@@ -1,0 +1,19 @@
+{
+  "name": "chatshelf",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json && node scripts/build.mjs",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "npm run build && node --test tests/*.test.mjs",
+    "build:browser-checks": "tsc -p tsconfig.browser-tests.json && node scripts/build-browser-checks.mjs",
+    "package": "npm run build && node scripts/package.mjs",
+    "check:release": "npm test && npm run typecheck && node scripts/check-release.mjs",
+    "check:release:documented": "npm test && npm run typecheck && node scripts/check-release.mjs --allow-documented-limitations"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.12",
+    "typescript": "5.7.3"
+  }
+}

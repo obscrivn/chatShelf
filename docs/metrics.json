@@ -1,0 +1,58 @@
+{
+  "threshold": 0.3,
+  "developmentSweep": [
+    {
+      "threshold": 0.25,
+      "topicMacroF1": 1,
+      "recurringPrecision": null,
+      "recurringRecall": null,
+      "recurrencePairs": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      }
+    },
+    {
+      "threshold": 0.3,
+      "topicMacroF1": 1,
+      "recurringPrecision": null,
+      "recurringRecall": null,
+      "recurrencePairs": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      }
+    },
+    {
+      "threshold": 0.4,
+      "topicMacroF1": 1,
+      "recurringPrecision": null,
+      "recurringRecall": null,
+      "recurrencePairs": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      }
+    },
+    {
+      "threshold": 0.5,
+      "topicMacroF1": 1,
+      "recurringPrecision": null,
+      "recurringRecall": null,
+      "recurrencePairs": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  ],
+  "heldoutCases": 14,
+  "topicMacroF1": 0.9285714285714286,
+  "recurringPrecision": 1,
+  "recurringRecall": 0.5,
+  "recurrencePairs": {
+    "tp": 4,
+    "fp": 0,
+    "fn": 4
+  }
+}
